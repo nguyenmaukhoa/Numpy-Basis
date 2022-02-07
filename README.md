@@ -1,5 +1,5 @@
 
-# <font color='blue'>Numpy Refresher</font>
+# <font color='blue'>Numpy for Beginner - Credit: OpenCV</font>
 
 ### <font style="color:rgb(8,133,37)">Why do we need a special library for math and DL?</font>
 Python provides data types such as lists / tuples out of the box. Then, why are we using special libraries for deep learning tasks, such as Pytorch or TensorFlow, and not using standard types?
